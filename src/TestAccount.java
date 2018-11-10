@@ -6,7 +6,6 @@
     This program tests the account class.
     Instructor: Aziz Bahha
 */
-import java.util.*;
 
 public class TestAccount {
     public static void main(String[] args) {
